@@ -8,9 +8,7 @@
 - :books: Aprendendo Inglês Como Um Segundo Idioma...
 - :computer: Cursando o Ensino Superior em Análise e Desenvolvimento de Sistemas...
 - :airplane: Adquirindo Mais Conhecimento em PHP, MySql, HTML, JS, CSS e Bootstrap...
-- 💻[LinkedIn](https://www.linkedin.com/in/eduardo-moreira-a0980a157/)
-- 📷[Instagram](https://www.instagram.com/moreira.sza/) (Profissional, em Desenvolvimento)
-- 📷[Instagram](https://www.instagram.com/eddu.moreira/) (Pessoal)
+- 💻[LinkedIn](https://www.linkedin.com/in/eduardo-moreira-a0980a157/), 📷[Instagram](https://www.instagram.com/eddu.moreira/) (Pessoal), 📷[Instagram](https://www.instagram.com/moreira.sza/) (Profissional, em Desenvolvimento)
 
 ---
 
