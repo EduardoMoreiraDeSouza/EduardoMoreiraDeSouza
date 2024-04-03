@@ -12,7 +12,7 @@
 ---
 ### Redes Sociais
 
-- <img title="Créditos: https://pt.vecteezy.com/png-gratis/logo-linkedin" src="./linkedin.png" style="height:18px;"> <a target="_blank" href="https://www.linkedin.com/in/eduardo-moreira-a0980a157/">LinkedIn</a>
+- <img title="Créditos: https://pt.vecteezy.com/png-gratis/logo-linkedin" src="./linkedin.png" style="height:18px;"> <a href="https://www.linkedin.com/in/eduardo-moreira-a0980a157/" target="_blank">LinkedIn</a>
 - <img title="Créditos: https://pt.vecteezy.com/png-gratis/logo-linkedin" src="./instagram.png" style="height:18px;"> [Instagram](https://www.instagram.com/eddu.moreira/) (Pessoal)
 - <img title="Créditos: https://pt.vecteezy.com/png-gratis/logo-linkedin" src="./instagram.png" style="height:18px;"> [Instagram](https://www.instagram.com/moreira.sza/) (Profissional, em Desenvolvimento)
 
