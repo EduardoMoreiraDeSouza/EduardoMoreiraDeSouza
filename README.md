@@ -47,12 +47,10 @@ Backend Developer passionate about building maintainable, scalable, and well-str
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoMoreiraDeSouza&show_icons=true&theme=vue-dark&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreiraDeSouza&layout=compact&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoMoreiraDeSouza&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreiraDeSouza&layout=compact&theme=vue-dark&hide_border=true" />
 
   <br><br>
 
