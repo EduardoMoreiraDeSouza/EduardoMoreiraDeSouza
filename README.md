@@ -1,29 +1,56 @@
-## Hi there 👋, I'm Eduardo, and I work with software development...
+# Hi there, I'm Eduardo 👋
 
-### My Career :rocket:
-
-- 🔭 I’m a backend developer, and I master PHP and MySql. I have knowledge of the frontend (HTML, JS, CSS, Bootstrap)...
-- 🌱 I'm learning C# and .NET...
----
-### My learning :book:
-
-- :books: Aprendendo Inglês Como Um Segundo Idioma...
-- :computer: Cursando o Ensino Superior em Análise e Desenvolvimento de Sistemas...
-- :airplane: Adquirindo Mais e Mais Conhecimento...
-  
----
-### Social Media :eyes:
-
-- <img title="Créditos: https://pt.vecteezy.com/png-gratis/logo-linkedin" src="./linkedin.png" style="height:18px;"> [LinkedIn](https://www.linkedin.com/in/eduardo-moreira-a0980a157/)
-- <img title="Créditos: https://pt.vecteezy.com/png-gratis/logo-linkedin" src="./instagram.png" style="height:18px;"> [Instagram](https://www.instagram.com/moreira.sza/) (Perfil Profissional)
-- <img title="Créditos: https://pt.vecteezy.com/png-gratis/logo-linkedin" src="./instagram.png" style="height:18px;"> [Instagram](https://www.instagram.com/eddu.moreira/) (Perfil Pessoal)
+Backend Developer passionate about building maintainable, scalable, and well-structured software.
 
 ---
 
-### Skils :climbing:
+## 💼 About Me
 
-<div class="flex w-full flex-col items-center">
-    <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreiraDeSouza&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=false&amp;" alt="github top languages"><br/>
-    <img class="output" src="https://github-readme-stats.vercel.app/api?username=EduardoMoreiraDeSouza&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github status"><br/>
-    <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoMoreiraDeSouza&amp;theme=vue-dark&amp;hide_border=false" alt="github streak"><br/>
-</div>
+* 💻 Backend Developer specializing in **PHP** and **MySQL**
+* 🏗️ Passionate about **Software Architecture**, **Clean Code**, **Refactoring**, and **Design Patterns**
+* 🌱 Currently sharpening my **PHP** skills and preparing to learn **Laravel**
+* 🎓 Bachelor's student in **Systems Analysis and Development**
+* 🇺🇸 Continuously improving my English to communicate confidently in international environments
+
+---
+
+## 🛠️ Technologies
+
+**Backend**
+
+* PHP
+* MySQL
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
+**Currently Studying**
+
+* Advanced PHP
+* Software Architecture
+* Clean Code
+* Design Patterns
+* Test-Driven Development (TDD)
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/eduardo-moreira-a0980a157/
+* 📸 Instagram: https://www.instagram.com/edduardo.souzza/
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreiraDeSouza&theme=vue-dark&show_icons=true&hide_border=true" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=EduardoMoreiraDeSouza&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoMoreiraDeSouza&theme=vue-dark&hide_border=true" />
+</p>
