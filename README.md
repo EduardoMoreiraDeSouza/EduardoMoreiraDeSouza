@@ -41,11 +41,7 @@ Backend Developer passionate about building maintainable, scalable, and well-str
 - 📸 Instagram: <https://www.instagram.com/edduardo.souzza/>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,7 +50,10 @@ Backend Developer passionate about building maintainable, scalable, and well-str
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <br><br>
+---
 
+## 📊 GitHub Statistics
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=EduardoMoreiraDeSouza&theme=vue-dark&hide_border=true" />
 </p>
